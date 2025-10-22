@@ -1,0 +1,27 @@
+# requirements.txt
+
+# Core AI and ML libraries
+torch
+torchvision
+sentence-transformers
+pandas
+Pillow
+tqdm
+requests
+
+
+# LangChain libraries
+langchain
+langchain-openai
+langchain-community
+langchain_chroma
+
+# Streamlit for UI
+streamlit
+
+# Utilities for data processing
+beautifulsoup4
+lxml
+lark
+
+rank_bm25      
